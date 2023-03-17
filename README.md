@@ -1,5 +1,5 @@
 # Landing-parts
-nav bar, portfolio and blog parts.
+DEVELPOED BY BOOTSTRAP FRAMEWORK.
 
 
 TEAM MEMBERS = SHAVIO NANAYAKKARA,
